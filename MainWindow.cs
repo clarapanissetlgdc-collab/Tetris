@@ -13,7 +13,7 @@ using System;
 using Avalonia.Threading;
 // à ajouter à partir de l'itération 1
 using NoyauTetris;
-
+  
 namespace InterfaceTetris;
 
 /* Gère la fenêtre principale du jeu de Tetris, et l'ensemble des interactions du jeu. */
