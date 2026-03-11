@@ -80,6 +80,7 @@ public partial class MainWindow : Window
             }
         };
     } 
+    
 
     /* Dessine un rectangle dans le TetrisCanvas, à la position (x, y), de largeur width, 
     de hauteur height (en pixels) et de couleur couleur. */
